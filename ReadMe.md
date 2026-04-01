@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="./about.svg" width="70%" />
-</p>
+<img src="./about.svg"/>
