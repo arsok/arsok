@@ -1,5 +1,3 @@
-<img 
-  src="./about.svg" 
-  alt="about"
-  style="width:70%; max-width:700px; height:auto; display:block;" 
-/>
+<p align="center">
+  <img src="./about.svg" width="70%" />
+</p>
